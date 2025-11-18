@@ -1,6 +1,6 @@
 # OPEN-SOURCE-EX-2
-# Name : ABDUL KALAAM K M
-# Reg No : 212223230003
+# Name : ADHITHIYAN
+# Reg No : 212222230006
 # Dept : AIDS 
 <img width="1145" height="848" alt="Screenshot 2025-09-22 091123" src="https://github.com/user-attachments/assets/ae7a6c0f-a4b1-4bfb-a9fa-bba382b41dec" />
 <img width="1268" height="890" alt="Screenshot 2025-09-22 161006" src="https://github.com/user-attachments/assets/6882e153-5b72-48f2-b848-1bbe912def53" />
